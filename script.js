@@ -1,3 +1,8 @@
+alert('hey, welcome to the world clock');
+
+
+
+
 function updateTime() {
     // Los Angeles
     let losAngelesElement = document.querySelector("#los-angeles");
